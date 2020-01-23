@@ -1,10 +1,10 @@
 # Connexion Hello World
 
-Minimal hello world example with Connexion and OpenAPI/Swagger.
+Minimal hello world example with [Connexion](https://github.com/zalando/connexion) and OpenAPI/[Swagger](https://swagger.io/blog/api-strategy/difference-between-swagger-and-openapi/).
 
 # Why?
 
-The Connexion README doesn't actually get you started and the Pet Store example is overly complicated.
+The Connexion README doesn't actually get you started and the [Pet Store example](https://github.com/hjacobs/connexion-example) is overly complicated.
 
 # Development
 ## First Setup
