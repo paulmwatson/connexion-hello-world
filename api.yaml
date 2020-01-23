@@ -1,0 +1,16 @@
+swagger: '2.0'
+info:
+  version: '0.1'
+  title: 'Connexion Hello World'
+paths:
+  /:
+    get:
+      operationId: app.hello
+      responses:
+        200:
+          description: Returns "Hello world."
+          schema:
+            type: string
+            items: 
+              type: string
+            
